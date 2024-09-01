@@ -44,7 +44,6 @@ const Header = () => {
           >
             <NavLink to="/properties">Properties</NavLink>
 
-            <a href="mailto:zainkeepscode@gmail.com">Contact</a>
             <a href="mailto:milansavaliya1125@gmail.com">Contact</a>
 
             {/* add property */}
