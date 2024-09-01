@@ -5,6 +5,7 @@ import { toast } from "react-toastify";
 const useAuthCheck = () => {
 
     const {isAuthenticated} = useAuth0()
+    
     const validateLogin = () => {
         if(!isAuthenticated)
         {
